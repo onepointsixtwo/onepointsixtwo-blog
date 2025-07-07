@@ -5,7 +5,7 @@ baseurl: ""
 
 markdown: kramdown
 highlighter: rouge
-theme: beautiful-jekyll
+theme: minima
 
 plugins:
   - jekyll-feed
