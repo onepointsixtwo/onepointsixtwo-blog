@@ -1,7 +1,7 @@
 title: onepointsixtwo blog
 description: Thoughts and updates from onepointsixtwo
 url: "https://blog.onepointsixtwo.com"
-baseurl: ""
+baseurl: "/onepointsixtwo-blog"
 
 markdown: kramdown
 highlighter: rouge
